@@ -6,8 +6,8 @@ inquirer.registerPrompt('maxlength-input', MaxLengthInputPrompt);
 
 
 function writeToFile(data) {
-    fs.writeFile(`./examples/${data.logo}`, markdown.generateSVG(data), (err) =>
-      err ? console.error(err) : console.log('SVG Logo Successully Generated!'))
+    fs.writeFile(`./examples/logo.svg`, markdown.generateSVG(data), (err) =>
+      err ? console.error(err) : console.log('Generated logo.svg'))
 }
 
 // A function to initialize app and prompt user for info
@@ -40,6 +40,7 @@ function init() {
         }
         ])
         .then((response) =>
+
         console.log(response));
 }
 

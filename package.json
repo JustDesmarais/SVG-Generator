@@ -1,4 +1,12 @@
 {
+  "name": "module_10",
+  "version": "1.0.0",
+  "description": "SVG Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "JustDesmarais",
   "dependencies": {
     "inquirer": "^8.2.4",
     "inquirer-maxlength-input-prompt": "^1.0.2"
