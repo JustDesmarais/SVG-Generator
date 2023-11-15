@@ -22,7 +22,13 @@ https://github.com/JustDesmarais/SVG-Generator
 
 ## Demo <a id="Demo"></a>
 
-[View a demo of the apps functionality here!](https://drive.google.com/file/d/1g3ZNedrjGYdEoIfrv_tbIdLjd2Ax9C4V/view?usp=sharing)
+[View a demo of the app's functionality here!](https://drive.google.com/file/d/1E0hV84T7XQYJ8pnMlsT5rkxrMCINwrLC/view?usp=sharing)
+
+### Mock-up
+
+The following image shows a mock-up of the generated SVG given the following input entered by the user: JRD for the text, yellow for the text color, circle from the list of shapes, and blue for the shape color. Note that this is just an image of the output SVG and not the SVG file itself:
+
+![mock-up image of the svg output file](./images/logo.png)
 
 ## Questions <a id="Questions"></a>
 
